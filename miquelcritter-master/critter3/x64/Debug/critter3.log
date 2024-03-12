@@ -1,0 +1,5 @@
+﻿  Critter.cpp
+D:\AluCiclesGS2\MFP\miquelcritter-master\critter3\Critter.cpp(128,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  critter3.cpp
+  Generando código...
+  critter3.vcxproj -> D:\AluCiclesGS2\MFP\miquelcritter-master\x64\Debug\critter3.exe
