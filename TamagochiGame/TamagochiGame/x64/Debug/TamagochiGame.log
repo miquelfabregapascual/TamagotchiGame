@@ -1,3 +1,0 @@
-﻿  Critter.cpp
-D:\AluCiclesGS2\MFP\TamagochiGame\TamagochiGame\Critter.cpp(164,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
-  TamagochiGame.vcxproj -> D:\AluCiclesGS2\MFP\TamagochiGame\x64\Debug\TamagochiGame.exe
